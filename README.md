@@ -11,6 +11,11 @@
 The spreading rate of coronavirus disease 2019 (COVID-19) has been very high around the world. The world was in a war to fight not only a pandemic, but also an infodemic. In this project, I design a rumor detection and truth response system to combating the infodemic.
 
 ## Approach
+1.Data collection
+2.Data processing
+3.Exploratory Data Analysis
+4.Model
+5.Truth match
 
-## Final Results
+## Thanks
 
