@@ -15,9 +15,11 @@ The spreading rate of coronavirus disease 2019 (COVID-19) has been very high aro
 
 2.Data processing: After successfully extracting the data, we finally generate a new COVID-19 rumor dataset with labels. Where tag=1 means that the tweets are correct information, where tag=0 means that the tweets are incorrect information. Then, we clean tweets content, removing stop words, punctuation, lemmatization, etc.
 
-3.Exploratory Data Analysis
-4.Model
-5.Truth match
+3.Exploratory Data Analysis:In the EDA section, first, we analyze the distribution of the age of rumored users and the number of followers. Second, we analyzed the content of the rumor, comparing the number of proper nouns, the number of stop words, and the number of capital letters between the rumor and correct information. Third, we did a sentiment analysis to see if sentiment differed between rumors and non-rumors using nltk package[3]. Finally, we plotted word clouds from 2020 to 2022, showing which topics people paid attention to when COVID-19 was extracted in different years.
+
+4.Model: We mainly used logistic regression[4], support vector machines[5] and BiLSTM[6] as classification models. We use sklearn[7], karas[8] and tensorflow[9] packages.
+
+5.Truth match: 
 
 ## Thanks
 
