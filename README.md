@@ -2,9 +2,9 @@
 
 ## Repository Structure
 
-** data: 
+** data **: 
 
-** notebook:
+** notebook **:
 
 
 ## Problem Statement
