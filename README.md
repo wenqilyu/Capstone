@@ -19,7 +19,7 @@ The spreading rate of coronavirus disease 2019 (COVID-19) has been very high aro
 
 4.Model: We mainly used logistic regression[4], support vector machines[5] and BiLSTM[6] as classification models. We use sklearn[7], karas[8] and tensorflow[9] packages.
 
-5.Truth match: 
+5.Truth match: We use jaccard similarityp[9] to match the question with the tweets content and find the one with the largest similarity score as our return value.
 
 ## Thanks
 
