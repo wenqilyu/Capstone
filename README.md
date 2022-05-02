@@ -8,6 +8,7 @@
 
 
 ## Problem Statement
+The spreading rate of coronavirus disease 2019 (COVID-19) has been very high around the world. The world was in a war to fight not only a pandemic, but also an infodemic. In this project, I design a rumor detection and truth response system to combating the infodemic.
 
 ## Approach
 
